@@ -11,4 +11,7 @@ Vragen?
 Mail <a href="mailto:mattientje@groupsmail.com">mij</a>!
 
 DOWNLOAD:
-APK: <a href="https://github.com/user-attachments/assets/app-release.apk" download>Klik Hier</a>
+APK: app-release.apk
+
+SITE:
+<a href="https://webtinq.nl/koken">CLICK HERE</a>
