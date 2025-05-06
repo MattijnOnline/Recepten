@@ -11,4 +11,4 @@ Vragen?
 Mail <a href="mailto:mattientje@groupsmail.com">mij</a>!
 
 DOWNLOAD:
-APK: 
+APK: <a href="https://github.com/user-attachments/assets/app-release.apk" download>Klik Hier</a>
