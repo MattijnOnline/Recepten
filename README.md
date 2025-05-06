@@ -12,6 +12,7 @@ Mail <a href="mailto:mattientje@groupsmail.com">mij</a>!
 
 DOWNLOAD:
 APK: app-release.apk
+ZIP: Recepten en Boodschappen 1.0.zip
 
 SITE:
 <a href="https://webtinq.nl/koken">CLICK HERE</a>
